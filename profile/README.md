@@ -2,7 +2,7 @@
 
 Welcome to the **Logistics** project!  
 
-This repository is part of our pet project focused on building and managing modern infrastructure for logistics applications. It leverages **Terraform Cloud**, **AWS**, and **GitHub Actions** to automate and streamline the deployment of essential cloud resources like S3 buckets, DynamoDB tables, and ECR registries.  
+This repository is part of our pet project focused on building and managing modern infrastructure for logistics applications. It leverages **Terraform**,**CDK TF**, **AWS**, and **GitHub Actions** to automate and streamline the deployment of essential cloud resources like S3 buckets, DynamoDB tables, and ECR registries.  
 
 ### Features
 - **Infrastructure as Code**: Modular and reusable Terraform configurations.  
